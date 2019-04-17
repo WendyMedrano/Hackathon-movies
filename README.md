@@ -15,7 +15,7 @@
 ## Resumen del proyecto
 A todos nos ha pasado, que tenemos un domingo por la tarde libre, queremos ver una peli, pero no se nos ocurre cual ver.
 Buscamos en redes, post de películas para ver comentarios y opiniones para decidir si ver la peli valdrá nuestro tiempo.
-Por eso nació Y AHORA QUE VER. COM, el espacio perfecto para recibir recomendaciones de tendencias a nivel mundial, una comunidad de cinéfilos comentando sus impresiones  sobre las últimas películas, puntuaciones y el resumen de la película, ya tienes toda la información en un solo lugar ahora decidir ya no es problema.
+Por eso nació Y AHORA QUE VER. COM, el espacio perfecto para recibir recomendaciones de tendencias a nivel mundial, una comunidad de cinéfilos comentando sus impresiones, puntuaciones y un resumen de lo que podrías ver, ya tienes toda la información en un solo lugar ahora decidir ya no es problema.
 
 ## Investigación
 
